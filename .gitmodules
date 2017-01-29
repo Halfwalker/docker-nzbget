@@ -1,0 +1,9 @@
+[submodule "scripts/FakeDetector"]
+	path = scripts/FakeDetector
+	url = https://github.com/nzbget/FakeDetector.git
+[submodule "scripts/VideoSort"]
+	path = scripts/VideoSort
+	url = https://github.com/nzbget/VideoSort.git
+[submodule "scripts/FailureLink"]
+	path = scripts/FailureLink
+	url = https://github.com/nzbget/FailureLink.git
